@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/johnson1940/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/johnson1940/Leetcode/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/johnson1940/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1894-merge-strings-alternately](https://github.com/johnson1940/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/johnson1940/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/johnson1940/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/johnson1940/Leetcode/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/johnson1940/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
