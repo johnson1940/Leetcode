@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/johnson1940/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/johnson1940/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/johnson1940/Leetcode/tree/master/1013-fibonacci-number) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/johnson1940/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/johnson1940/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/johnson1940/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/johnson1940/Leetcode/tree/master/0392-is-subsequence) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/johnson1940/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/johnson1940/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
