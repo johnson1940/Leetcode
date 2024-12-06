@@ -1,8 +1,13 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-        str_list = s.split()
-        str_list.reverse()
-        s = ' '.join(str_list)
-        return s
+        words = s.split()
+        left = 0
+        right = len(words) - 1
+        while left < right:
+            words[left], words[right] = words[right], words[left]
+            left += 1
+            right -= 1
+        return ' '.join(words)  
+        
 
         
