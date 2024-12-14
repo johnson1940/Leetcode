@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/johnson1940/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/johnson1940/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/johnson1940/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/johnson1940/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/johnson1940/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/johnson1940/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/johnson1940/Leetcode/tree/master/0605-can-place-flowers) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/johnson1940/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/johnson1940/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/johnson1940/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/johnson1940/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/johnson1940/Leetcode/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/johnson1940/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/johnson1940/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/johnson1940/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/johnson1940/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/johnson1940/Leetcode/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/johnson1940/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
