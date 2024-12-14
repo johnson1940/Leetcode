@@ -1,5 +1,5 @@
 class Solution:
-    def containsDuplicate(self, nums: List[int]) -> bool:
+    def containsDuplicate(self, nums: List[int]) -> bool:  
         nums.sort()
         left = 0
         right = 1
@@ -7,10 +7,12 @@ class Solution:
 
             if nums[left] == nums[right]:
                 return True
-            elif nums[left] != nums[right]:
-               left += 1
-               right += 1
+            left += 1
+            right += 1
         return False         
-               
+                 
+
+
+
                 
         
