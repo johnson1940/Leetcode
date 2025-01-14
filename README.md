@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/johnson1940/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/johnson1940/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/johnson1940/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1603-running-sum-of-1d-array](https://github.com/johnson1940/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/johnson1940/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/johnson1940/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1603-running-sum-of-1d-array](https://github.com/johnson1940/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Simulation
 |  |
 | ------- |
