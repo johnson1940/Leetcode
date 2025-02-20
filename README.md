@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/johnson1940/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/johnson1940/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/johnson1940/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/johnson1940/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/johnson1940/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Matrix
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/johnson1940/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/johnson1940/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/johnson1940/Leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/johnson1940/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/johnson1940/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/johnson1940/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/johnson1940/Leetcode/tree/master/0189-rotate-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/johnson1940/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/johnson1940/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/johnson1940/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/johnson1940/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/johnson1940/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/johnson1940/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/johnson1940/Leetcode/tree/master/0179-largest-number) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/johnson1940/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/johnson1940/Leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/johnson1940/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/johnson1940/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Greedy
@@ -284,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/johnson1940/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/johnson1940/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
