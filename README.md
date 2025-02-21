@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/johnson1940/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/johnson1940/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/johnson1940/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/johnson1940/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/johnson1940/Leetcode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/johnson1940/Leetcode/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/johnson1940/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/johnson1940/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/johnson1940/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/johnson1940/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/johnson1940/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/johnson1940/Leetcode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/johnson1940/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/johnson1940/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/johnson1940/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/johnson1940/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/johnson1940/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/johnson1940/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/johnson1940/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/johnson1940/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/johnson1940/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/johnson1940/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/johnson1940/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/johnson1940/Leetcode/tree/master/0389-find-the-difference) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/johnson1940/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/johnson1940/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/johnson1940/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/johnson1940/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/johnson1940/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/johnson1940/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/johnson1940/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/johnson1940/Leetcode/tree/master/0389-find-the-difference) |
