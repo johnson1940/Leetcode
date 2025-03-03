@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/johnson1940/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/johnson1940/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/johnson1940/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0768-partition-labels](https://github.com/johnson1940/Leetcode/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/johnson1940/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/johnson1940/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/johnson1940/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/johnson1940/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/johnson1940/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/johnson1940/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0768-partition-labels](https://github.com/johnson1940/Leetcode/tree/master/0768-partition-labels) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/johnson1940/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/johnson1940/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/johnson1940/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/johnson1940/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/johnson1940/Leetcode/tree/master/0389-find-the-difference) |
+| [0768-partition-labels](https://github.com/johnson1940/Leetcode/tree/master/0768-partition-labels) |
 | [1319-unique-number-of-occurrences](https://github.com/johnson1940/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/johnson1940/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/johnson1940/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/johnson1940/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/johnson1940/Leetcode/tree/master/0397-integer-replacement) |
 | [0605-can-place-flowers](https://github.com/johnson1940/Leetcode/tree/master/0605-can-place-flowers) |
+| [0768-partition-labels](https://github.com/johnson1940/Leetcode/tree/master/0768-partition-labels) |
 ## String Matching
 |  |
 | ------- |
