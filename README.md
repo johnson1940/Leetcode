@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/johnson1940/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnson1940/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/johnson1940/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0594-longest-harmonious-subsequence](https://github.com/johnson1940/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/johnson1940/Leetcode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/johnson1940/Leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/johnson1940/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/johnson1940/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnson1940/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/johnson1940/Leetcode/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/johnson1940/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/johnson1940/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/johnson1940/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/johnson1940/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/johnson1940/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/johnson1940/Leetcode/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/johnson1940/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/johnson1940/Leetcode/tree/master/0768-partition-labels) |
 | [1319-unique-number-of-occurrences](https://github.com/johnson1940/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/johnson1940/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/johnson1940/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/johnson1940/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/johnson1940/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/johnson1940/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/johnson1940/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/johnson1940/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/johnson1940/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0594-longest-harmonious-subsequence](https://github.com/johnson1940/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
