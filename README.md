@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/johnson1940/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/johnson1940/Leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/johnson1940/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/johnson1940/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/johnson1940/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/johnson1940/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/johnson1940/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/johnson1940/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnson1940/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/johnson1940/Leetcode/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/johnson1940/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -284,12 +286,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/johnson1940/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/johnson1940/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/johnson1940/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1046-max-consecutive-ones-iii](https://github.com/johnson1940/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/johnson1940/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/johnson1940/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/johnson1940/Leetcode/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/johnson1940/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/johnson1940/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/johnson1940/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/johnson1940/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
