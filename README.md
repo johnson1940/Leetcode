@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/johnson1940/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/johnson1940/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/johnson1940/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [3194-find-words-containing-character](https://github.com/johnson1940/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/johnson1940/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/johnson1940/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/johnson1940/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/johnson1940/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3194-find-words-containing-character](https://github.com/johnson1940/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Bit Manipulation
 |  |
 | ------- |
