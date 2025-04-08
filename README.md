@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnson1940/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/johnson1940/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0500-keyboard-row](https://github.com/johnson1940/Leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/johnson1940/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/johnson1940/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/johnson1940/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/johnson1940/Leetcode/tree/master/0605-can-place-flowers) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/johnson1940/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/johnson1940/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/johnson1940/Leetcode/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/johnson1940/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/johnson1940/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/johnson1940/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/johnson1940/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -401,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/johnson1940/Leetcode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/johnson1940/Leetcode/tree/master/0561-array-partition) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/johnson1940/Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
