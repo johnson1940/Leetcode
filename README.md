@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/johnson1940/Leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/johnson1940/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/johnson1940/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Hash Function
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/johnson1940/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/johnson1940/Leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/johnson1940/Leetcode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/johnson1940/Leetcode/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/johnson1940/Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/johnson1940/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Union Find
