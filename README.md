@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/johnson1940/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/johnson1940/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/johnson1940/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/johnson1940/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/johnson1940/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/johnson1940/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/johnson1940/Leetcode/tree/master/1013-fibonacci-number) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/johnson1940/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/johnson1940/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/johnson1940/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/johnson1940/Leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/johnson1940/Leetcode/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/johnson1940/Leetcode/tree/master/0500-keyboard-row) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/johnson1940/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/johnson1940/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/johnson1940/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/johnson1940/Leetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/johnson1940/Leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/johnson1940/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/johnson1940/Leetcode/tree/master/2470-removing-stars-from-a-string) |
