@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/johnson1940/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/johnson1940/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/johnson1940/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0742-to-lower-case](https://github.com/johnson1940/Leetcode/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/johnson1940/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/johnson1940/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/johnson1940/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
