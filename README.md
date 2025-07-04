@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johnson1940/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/johnson1940/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/johnson1940/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3778-transform-array-by-parity](https://github.com/johnson1940/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/johnson1940/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/johnson1940/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/johnson1940/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3778-transform-array-by-parity](https://github.com/johnson1940/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/johnson1940/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/johnson1940/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johnson1940/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3778-transform-array-by-parity](https://github.com/johnson1940/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Linked List
 |  |
 | ------- |
