@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johnson1940/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/johnson1940/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/johnson1940/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3226-minimum-number-game](https://github.com/johnson1940/Leetcode/tree/master/3226-minimum-number-game) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/johnson1940/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3778-transform-array-by-parity](https://github.com/johnson1940/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/johnson1940/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/johnson1940/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/johnson1940/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3226-minimum-number-game](https://github.com/johnson1940/Leetcode/tree/master/3226-minimum-number-game) |
 | [3778-transform-array-by-parity](https://github.com/johnson1940/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/johnson1940/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/johnson1940/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/johnson1940/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3226-minimum-number-game](https://github.com/johnson1940/Leetcode/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/johnson1940/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/johnson1940/Leetcode/tree/master/0506-relative-ranks) |
+| [3226-minimum-number-game](https://github.com/johnson1940/Leetcode/tree/master/3226-minimum-number-game) |
 ## Stack
 |  |
 | ------- |
