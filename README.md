@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/johnson1940/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johnson1940/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/johnson1940/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/johnson1940/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/johnson1940/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/johnson1940/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/johnson1940/Leetcode/tree/master/3226-minimum-number-game) |
