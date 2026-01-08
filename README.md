@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/johnson1940/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/johnson1940/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0768-partition-labels](https://github.com/johnson1940/Leetcode/tree/master/0768-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/johnson1940/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/johnson1940/Leetcode/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/johnson1940/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/johnson1940/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/johnson1940/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/johnson1940/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/johnson1940/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [0844-backspace-string-compare](https://github.com/johnson1940/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/johnson1940/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/johnson1940/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/johnson1940/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/johnson1940/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/johnson1940/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/johnson1940/Leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/johnson1940/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/johnson1940/Leetcode/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/johnson1940/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/johnson1940/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/johnson1940/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/johnson1940/Leetcode/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/johnson1940/Leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/johnson1940/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1666-make-the-string-great](https://github.com/johnson1940/Leetcode/tree/master/1666-make-the-string-great) |
 | [2470-removing-stars-from-a-string](https://github.com/johnson1940/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Union Find
