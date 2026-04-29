@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/johnson1940/Leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/johnson1940/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/johnson1940/Leetcode/tree/master/0861-flipping-an-image) |
+| [0875-koko-eating-bananas](https://github.com/johnson1940/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/johnson1940/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/johnson1940/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/johnson1940/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/johnson1940/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/johnson1940/Leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/johnson1940/Leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/johnson1940/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/johnson1940/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/johnson1940/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/johnson1940/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
