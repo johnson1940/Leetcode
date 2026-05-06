@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/johnson1940/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/johnson1940/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/johnson1940/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1441-build-an-array-with-stack-operations](https://github.com/johnson1940/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/johnson1940/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/johnson1940/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/johnson1940/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/johnson1940/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/johnson1940/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/johnson1940/Leetcode/tree/master/0861-flipping-an-image) |
+| [1441-build-an-array-with-stack-operations](https://github.com/johnson1940/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/johnson1940/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/johnson1940/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/johnson1940/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/johnson1940/Leetcode/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/johnson1940/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/johnson1940/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1441-build-an-array-with-stack-operations](https://github.com/johnson1940/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1666-make-the-string-great](https://github.com/johnson1940/Leetcode/tree/master/1666-make-the-string-great) |
 | [2470-removing-stars-from-a-string](https://github.com/johnson1940/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Union Find
