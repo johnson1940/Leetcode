@@ -1,19 +1,16 @@
 class Solution {
   int maxProfit(List<int> prices) {
-    int l = 0;
-    int r = 1;
-    int profit = 0;
-    int maxProfit = 0;
-    while(r < prices.length) {
-        if(prices[l] < prices[r]) {
-            profit = prices[r] - prices[l];
-            maxProfit = max(maxProfit, profit);
-        }
-        else { 
-          l = r;
-        }
-        r++;
-    }
-    return maxProfit;
+      int buyPrice = prices[0];
+      int profit = 0;
+
+      for(int i = 1; i < prices.length ; i++) {
+           
+           if(buyPrice > prices[i]) {
+              /// set the buy prices low so that we may get the max profit
+              buyPrice = prices[i];
+           }
+        profit = max(profit, prices[i]-buyPrice);   
+      }
+    return profit;
   }
-}
+} 
