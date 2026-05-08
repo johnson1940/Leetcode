@@ -2,42 +2,31 @@ class Solution {
   List<List<int>> threeSum(List<int> nums) {
     List<List<int>> result = [];
     nums.sort();
+    Set<String> seen = {};
 
     for(int i = 0 ; i < nums.length - 2 ; i++) {
+        int left = i + 1;
+        int right = nums.length - 1;
 
-        if (i > 0 && nums[i] == nums[i-1]) continue;
-        
-        int left_pointer = i + 1;
-        int right_pointer = nums.length - 1;
-
-        while(left_pointer < right_pointer) {
-            int sum = nums[i] + nums[left_pointer] + nums[right_pointer];
-
+        while(left < right) {
+            int sum = nums[i] + nums[left] + nums[right];
+            String key = '${nums[i]},${nums[left]},${nums[right]}';
             if(sum == 0) {
-                result.add([nums[i], nums[left_pointer], nums[right_pointer]]);
-                left_pointer++;
-                right_pointer--;
-
-                while (left_pointer < right_pointer &&
-                    nums[left_pointer] == nums[left_pointer - 1]) {
-                      left_pointer++;
-              }
-
-                 while (left_pointer < right_pointer &&
-                   nums[right_pointer] == nums[right_pointer + 1]) {
-                     right_pointer--;
-                 }
+                if(!seen.contains(key)) {
+                  seen.add(key);
+                  result.add([nums[i], nums[left], nums[right]]);
+                }
+                left++;
+                right--;
             }
             else if(sum > 0) {
-                right_pointer--;
+                right--;
             }
             else {
-                left_pointer++;
+                left++;
             }
         }
-
     }
-    return result;
-    
+   return result;
   }
 }
