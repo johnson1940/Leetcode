@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/johnson1940/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/johnson1940/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/johnson1940/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/johnson1940/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/johnson1940/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/johnson1940/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/johnson1940/Leetcode/tree/master/1666-make-the-string-great) |
 | [1777-determine-if-two-strings-are-close](https://github.com/johnson1940/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/johnson1940/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/johnson1940/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/johnson1940/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/johnson1940/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/johnson1940/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/johnson1940/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/johnson1940/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1666-make-the-string-great](https://github.com/johnson1940/Leetcode/tree/master/1666-make-the-string-great) |
+| [2000-reverse-prefix-of-word](https://github.com/johnson1940/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/johnson1940/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Union Find
 |  |
