@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/johnson1940/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/johnson1940/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/johnson1940/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/johnson1940/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/johnson1940/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/johnson1940/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/johnson1940/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/johnson1940/Leetcode/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/johnson1940/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/johnson1940/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/johnson1940/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/johnson1940/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1666-make-the-string-great](https://github.com/johnson1940/Leetcode/tree/master/1666-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/johnson1940/Leetcode/tree/master/2000-reverse-prefix-of-word) |
