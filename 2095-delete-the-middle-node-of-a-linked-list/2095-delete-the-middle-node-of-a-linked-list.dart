@@ -8,8 +8,9 @@
  */
 class Solution {
   ListNode? deleteMiddle(ListNode? head) {
-
-
+     
+     /// If there is an single data return it because there is
+     /// Middle element in it 
      if(head!.next == null) {
        head = null;  
        return head;
