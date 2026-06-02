@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/johnson1940/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/johnson1940/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/johnson1940/Leetcode/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/johnson1940/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/johnson1940/Leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/johnson1940/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/johnson1940/Leetcode/tree/master/0861-flipping-an-image) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/johnson1940/Leetcode/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/johnson1940/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/johnson1940/Leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/johnson1940/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/johnson1940/Leetcode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/johnson1940/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
