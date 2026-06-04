@@ -1,20 +1,16 @@
 class Solution {
   int pivotIndex(List<int> nums) {
-     List<int> result = List.filled(nums.length , 0);
-     result[0] = nums[0];
-     for(int i = 1 ; i < nums.length ; i++) {
-        result[i] = result[i - 1] + nums[i];
-     }
-      
-     int total = result[result.length - 1];
-     for(int i = 0 ; i < result.length ; i++) {
-        int leftSum = (i == 0) ? 0 : result[i - 1];
-        int rightSum = total - result[i];
-
-        if(leftSum == rightSum) {
+    int left_sum = 0;
+    int total_sum = 0;
+    for(int nu in nums) total_sum += nu;
+    for(int i = 0; i < nums.length ; i++) {
+        int right_sum = total_sum - left_sum - nums[i];
+        if(left_sum == right_sum) {
             return i;
         }
-     } 
-    return -1;  
+    left_sum += nums[i];
+    }
+    return -1;
   }
+    
 }
