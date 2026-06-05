@@ -4,7 +4,7 @@ class NumArray {
     prefix = List.filled(nums.length, 0);
     prefix[0] = nums[0];
     for(int i = 1; i < nums.length ; i++) {
-        prefix[i] = prefix[i - 1] + nums[i];
+        prefix[i] = nums[i] + prefix[i - 1];
     }
   }
   
