@@ -1,16 +1,16 @@
 class NumArray {
   List<int> prefix = [];
   NumArray(List<int> nums) {
-    prefix = List.filled(nums.length, 0);
+    prefix = List.filled(nums.length , 0);
     prefix[0] = nums[0];
-    for(int i = 1; i < nums.length ; i++) {
+    for(int i = 1 ; i < nums.length ; i++) {
         prefix[i] = nums[i] + prefix[i - 1];
     }
   }
   
   int sumRange(int left, int right) {
-    if(left == 0) return prefix[right];
-    return prefix[right] - prefix[left - 1];
+     if(left == 0) return prefix[right];
+     return prefix[right] - prefix[left - 1];
   }
 }
 
