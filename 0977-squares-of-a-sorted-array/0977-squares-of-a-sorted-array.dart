@@ -1,24 +1,23 @@
 class Solution {
-  List<int> sortedSquares(List<int> nums) {
+  List<int> sortedSquares(List<int> nums) { 
+    List<int> squareList = List.filled(nums.length, 0);
     int left = 0;
     int right = nums.length - 1;
-    int pos = nums.length - 1;
 
-    List<int> result = List.filled(nums.length, 0);
+    for(int i = nums.length - 1; i >= 0; i--) {
+        int leftSquare = nums[left] * nums[left];
+        int rightSquare = nums[right] * nums[right];
 
-    while(left <= right){
-       int leftSquare = nums[left] * nums[left];
-       int rightSquare = nums[right] * nums[right];
-
-       if(leftSquare > rightSquare) {
-           result[pos] = leftSquare;
-           left++;
-       } else {
-           result[pos] = rightSquare;
-           right--;
-       }
-       pos--;
+        if(leftSquare > rightSquare) {
+            squareList[i] = leftSquare;
+            left++;
+        }
+        else {
+            squareList[i] = rightSquare;
+            right--;
+        }
     }
-   return result;
+    return squareList;
   }
+      
 }
