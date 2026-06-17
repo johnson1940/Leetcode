@@ -13,15 +13,18 @@ class Solution {
      int carry = 0;
 
      while(l1 != null || l2 != null || carry != 0) {
-        int sum = (l1?.val ?? 0) + (l2?.val ?? 0) + carry;
-        int digit = sum % 10;
-        carry = sum ~/ 10;
+         int v1 = l1?.val ?? 0;
+         int v2 = l2?.val ?? 0;
 
-        current.next = ListNode(digit);
-        current = current.next!;
+         int sum = v1 + v2 + carry;
+         carry = sum ~/ 10;
+         int digit = sum % 10; 
 
-        l1 = l1?.next;
-        l2 = l2?.next;
+         current.next = ListNode(digit);
+         current = current.next!;
+
+         l1 = l1?.next;
+         l2 = l2?.next;
 
      }
     return dummy.next; 
