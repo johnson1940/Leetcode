@@ -1,17 +1,24 @@
 class Solution {
   int findMin(List<int> nums) {
-     int low = 0;
-     int high = nums.length - 1;
+      int left = 0;
+      int right = nums.length - 1;
 
-     while(low < high) {
-        int mid = low + (high - low) ~/ 2;
-        if(nums[mid] > nums[high]) {
-            low = mid + 1;
+      int result = nums[0];
+
+      while(left <= right) {
+        if(nums[left] < nums[right]) {
+            result = min(result, nums[left]);
+            break;
+        }
+        int mid = (left + right) ~/ 2;
+        result = min(result, nums[mid]);
+        if(nums[mid] >= nums[left]) {
+            left = mid + 1;
         }
         else {
-            high = mid;
+            right = mid - 1;
         }
-     }
-    return nums[low]; 
+      }
+    return result;  
   }
 }
