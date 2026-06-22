@@ -9,15 +9,18 @@ class Solution {
 
   for (int i = 1; i < nums.length; i++) {
     if (nums[i] == nums[i - 1]) {
-      continue; // ignore duplicates
+      continue; 
     } else if (nums[i] == nums[i - 1] + 1) {
       current++;
-    } else {
-      longest = longest > current ? longest : current;
+    } 
+    else {
+      longest = max(current, longest);
       current = 1;
     }
   }
 
-  return longest > current ? longest : current;
+  longest = max(longest, current);
+
+  return longest;
 }
 }
