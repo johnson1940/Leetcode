@@ -1,18 +1,19 @@
 class Solution {
   double findMaxAverage(List<int> nums, int k) {
-        int windowSum = 0;
+       int window = 0;
 
-        for(int i = 0; i < k ; i++) {
-            windowSum += nums[i];
-        }
+       // step 1 - find first k element sum
+       for(int i = 0 ; i < k ; i++) {
+          window += nums[i];
+       }
 
-        int maxWindowSum = windowSum;
+       int maxWindow = window;
 
-        for(int i = k ; i < nums.length ; i++) {
-            windowSum += nums[i];
-            windowSum -= nums[i - k];
-            maxWindowSum = max(windowSum, maxWindowSum);
-        }
-    return maxWindowSum / k;    
+       for(int i = k ; i < nums.length ; i++) {
+           window += nums[i];
+           window -= nums[i - k];
+           maxWindow = max(maxWindow, window);
+       }
+    return maxWindow / k;   
   }
 }
