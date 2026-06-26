@@ -6,8 +6,8 @@ class Solution {
 
     while (L < R) {
        // water = height * width 
-       int water = min(height[L], height[R]) * (R - L);  
-       maxWater = max(water, maxWater);
+       int area = min(height[L], height[R]) * (R - L);  
+       maxWater = max(area, maxWater);
           if (height[L] < height[R]) {
               L++;
           } else {
