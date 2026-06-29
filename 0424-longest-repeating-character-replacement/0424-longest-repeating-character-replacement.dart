@@ -1,21 +1,19 @@
 class Solution {
   int characterReplacement(String s, int k) {
-     Map<String , int> count = {};
+     Map<String, int> countFreq = {};
      int left = 0;
-     int result =  0;
+     int maxCount = 0;
 
-     for(int right = 0 ; right < s.length ; right++) {
-         
-         count[s[right]] = (count[s[right]] ??  0) + 1;
+     for(int right = 0; right < s.length ; right++) {
+        countFreq[s[right]] = (countFreq[s[right]] ?? 0) + 1;
 
-         if((right - left + 1) - count.values.reduce(max) > k) {
-             
-             count[s[left]] = (count[s[left]] ?? 0) - 1;
+        if((right - left + 1) - countFreq.values.reduce(max) > k) {
+            countFreq[s[left]] = (countFreq[s[left]] ?? 0) - 1;
+            left++;
+        }
 
-             left++;
-         }
-        result = max(result ,right - left + 1); 
+        maxCount = max(maxCount, right - left + 1);
      }
-    return result; 
+    return maxCount; 
   }
 }
