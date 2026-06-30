@@ -8,40 +8,42 @@
  */
 class Solution {
   void reorderList(ListNode? head) {
-    /// Step 1 finding the middle 
+    
+    if (head == null || head.next == null) return;
 
-    ListNode? slow = head;
-    ListNode? fast = head;
+    // Step 1 finding the middle
+    ListNode slow = head;
+    ListNode? fast = head.next;
 
-    while(fast != null && fast!.next != null) {
-        slow = slow!.next;
+    while(fast != null && fast.next != null) {
+        slow = slow.next!;
         fast = fast.next!.next;
     }
 
-    /// Step 2 reversing the second half;
-    ListNode? prev = null;
-    ListNode? current = slow;
+    // Step 2 - reversing he second half
+    ListNode? second = slow.next;
+    slow.next = null;
+    ListNode? prev;
 
-    while(current != null) {
-        ListNode? next = current.next;
-        current.next = prev;
-        prev = current;
-        current = next;
+    while(second != null) {
+        final temp = second.next;
+        second.next = prev;
+        prev = second;
+        second = temp;
     }
 
-    /// Step 3 merging two half
-    ListNode? p1 = head;
-    ListNode? p2 = prev;
-
-    while(p2!.next != null && p1!.next != null) {
-        ListNode? p1Next = p1.next;
-        ListNode? p2Next = p2.next;
-
-        p1.next = p2;
-        p2.next = p1Next;
-
-        p1 = p1Next;
-        p2 = p2Next;
+    /// Step 3 - Merge the two halfs
+    ListNode? first = head;
+    second = prev;
+    while(second != null) {
+        final tmp1 = first!.next;
+        final tmp2 = second.next;
+        
+        first.next = second;
+        second.next= tmp1;
+        first = tmp1;
+        second = tmp2;
     }
+
   }
 }
