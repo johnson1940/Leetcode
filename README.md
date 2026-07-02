@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/johnson1940/Leetcode/tree/master/0861-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/johnson1940/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/johnson1940/Leetcode/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/johnson1940/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/johnson1940/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/johnson1940/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/johnson1940/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/johnson1940/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/johnson1940/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/johnson1940/Leetcode/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/johnson1940/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/johnson1940/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/johnson1940/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/johnson1940/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/johnson1940/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/johnson1940/Leetcode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/johnson1940/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/johnson1940/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/johnson1940/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -727,4 +731,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/johnson1940/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/johnson1940/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
