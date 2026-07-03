@@ -1,17 +1,22 @@
 class Solution {
   int findMaxLength(List<int> nums) {
-      int prefixSum = 0;
+      int sum = 0;
       int maxLength = 0;
-      Map<int, int> firstOccurrence = {0: -1};
+
+      Map<int, int> counterMap = {0 : -1};
 
       for(int i = 0; i < nums.length ; i++) {
-         prefixSum += nums[i] == 0 ? -1 : 1;
-         if(firstOccurrence.containsKey(prefixSum)) {
-            maxLength = max(maxLength, i - firstOccurrence[prefixSum]!);
-        }
-        else {
-           firstOccurrence[prefixSum] = i; 
-        }
+         if(nums[i] == 0) nums[i] = -1;
+         else nums[i] = 1;
+
+         sum += nums[i];
+
+         if(counterMap.containsKey(sum)) {
+            maxLength = max(maxLength, i - counterMap[sum]!);
+         }
+         else {
+            counterMap[sum] = i;
+         }
       }
     return maxLength;  
   }
