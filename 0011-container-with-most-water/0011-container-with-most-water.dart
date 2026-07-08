@@ -1,19 +1,23 @@
 class Solution {
   int maxArea(List<int> height) {
-    int L = 0;
-    int R = height.length - 1;
+  
+    int leftWall = 0;
+    int rightWall = height.length - 1;
     int maxWater = 0;
-
-    while (L < R) {
-       // water = height * width 
-       int area = min(height[L], height[R]) * (R - L);  
-       maxWater = max(area, maxWater);
-          if (height[L] < height[R]) {
-              L++;
-          } else {
-              R--;
-          }
-       }
-     return maxWater;
-   }   
+  
+    while(leftWall < rightWall) {
+    
+        int area = min(height[leftWall], height[rightWall]) * (rightWall - leftWall);
+    
+        maxWater = max(area, maxWater);
+    
+        if(height[leftWall] < height[rightWall]) {
+            leftWall++;
+        }
+        else {
+            rightWall--;
+        }
+    }
+  return maxWater;
+}  
 }
