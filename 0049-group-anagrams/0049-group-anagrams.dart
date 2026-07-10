@@ -11,7 +11,7 @@ class Solution {
 //     return map.values.toList();
 //   }
 
-
+   /// O(m * n * 24) => O(m * n);
    List<List<String>> groupAnagrams(List<String> strs) {
         Map<String, List<String>> map = {};
 
