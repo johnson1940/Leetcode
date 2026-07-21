@@ -8,25 +8,21 @@
  */
 class Solution {
   ListNode? deleteMiddle(ListNode? head) {
-     
-     /// If there is an single data return it because there is
-     /// Middle element in it 
-     if(head!.next == null) {
-       head = null;  
-       return head;
-      } 
+   if(head!.next == null) {
+      head = null;
+      return head;
+    }
 
-      ListNode? fast = head;
-      ListNode? slow = head;
-      ListNode? prev;
+    ListNode? slow = head;
+    ListNode? fast = head;
+    ListNode? prev;
 
-      while(fast != null && fast.next != null) {
+    while(fast != null && fast.next != null) {
         prev = slow;
         slow = slow!.next;
         fast = fast.next!.next;
-      }
-
-    prev!.next = slow!.next;   
+    }
+    prev!.next = slow!.next;
     return head;
   }
 }
