@@ -1,18 +1,16 @@
 class Solution {
   int firstUniqChar(String s) {
-    
-    Map<String, int> countingMap = {};
-    List<String> char = s.split("");
+      Map<String, int> counterMap = {};
 
-    for(int i = 0; i < char.length ; i++) {
-        countingMap[char[i]] = (countingMap[char[i]] ?? 0) + 1;
-    }
+      for(String str in s.split('')) {
+         counterMap[str] = (counterMap[str] ?? 0) + 1;
+      }
 
-    for(int i = 0 ; i < char.length ; i++) {
-        if(countingMap[char[i]] == 1) {
+      for(int i = 0; i < s.length ; i++) {
+        if(counterMap[s[i]] == 1) {
             return i;
         }
-    }
-   return -1; 
+      }
+    return -1;
   }
 }
