@@ -1,12 +1,15 @@
 class Solution {
   bool containsDuplicate(List<int> nums) {
-    final seen = <int>{};
-    for(final num in nums){
-        if(seen.contains(num)) {
+       Map<int, int> numMap = {};
+
+       for(int i = 0 ; i < nums.length ; i++) {
+         if(numMap.containsKey(nums[i])) {
             return true;
-        }
-        seen.add(num);
-    }
+         }
+         else {
+            numMap[nums[i]] = (numMap[nums[i]] ?? 0) + 1;
+         }
+       }
     return false;
   }
 }
