@@ -1,30 +1,19 @@
 class Solution {
-  /// o(m * (n logn))
-//   List<List<String>> groupAnagrams(List<String> strs) {
-//     Map<String , List<String>> map = {};
+  List<List<String>> groupAnagrams(List<String> strs) {
+      Map<String, List<String>> map = {};
 
-//     for(String word in strs) {
-//        String key = (word.split('')..sort()).join('');
-//        map[key] ??= [];
-//        map[key]!.add(word);
-//     }
-//     return map.values.toList();
-//   }
+      for(String s in strs) {
+         
+         List<int> count = List.filled(26, 0);
 
-   /// O(m * n * 24) => O(m * n);
-   List<List<String>> groupAnagrams(List<String> strs) {
-        Map<String, List<String>> map = {};
+         for(int i = 0; i < s.length ; i++) {
+             count[s.codeUnitAt(i) - 97] += 1;
+         }
 
-        for(String s in strs) {
+         String key = count.join(',');
 
-            List<int> count = List.filled(26, 0);
-
-            for(int i = 0 ; i < s.length ; i++) {
-                count[s.codeUnitAt(i) - 97] += 1;
-            }
-          String key = count.join(',');
-          map.putIfAbsent(key, () => []).add(s);  
-        }
-    return map.values.toList();    
-   }
+         map.putIfAbsent(key, () => []).add(s);
+      }
+    return map.values.toList();  
+  }
 }
