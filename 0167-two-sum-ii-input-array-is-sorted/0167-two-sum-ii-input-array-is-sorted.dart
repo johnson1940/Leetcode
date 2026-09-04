@@ -5,10 +5,10 @@ class Solution {
 
       while(left < right) {
         int sum = numbers[left] + numbers[right];
-        if(target == sum) return [left+1, right+1];
+        if(sum == target) return [left+1, right+1];
         else if(sum > target) right--;
         else left++;
       }
-    return [];
+    return [];  
   }
 }
