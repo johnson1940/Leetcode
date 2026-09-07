@@ -1,14 +1,15 @@
 class Solution {
   int removeDuplicates(List<int> nums) {
+      if(nums.isEmpty) return 0;
 
-    int left = 1;
+      int slow = 1;
 
-    for(int right = 1 ; right < nums.length ; right++) {
-        if(nums[right] != nums[right - 1]) {
-            nums[left] = nums[right];
-            left++;
-        }
-    }
-   return left; 
+      for(int fast = 1; fast < nums.length; fast++)  {
+          if(nums[fast] != nums[slow - 1]) {
+             nums[slow] = nums[fast];
+             slow++;
+          }
+      }
+    return slow;  
   }
 }
