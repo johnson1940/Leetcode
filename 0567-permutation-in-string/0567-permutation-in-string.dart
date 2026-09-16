@@ -1,25 +1,24 @@
 class Solution {
   bool checkInclusion(String s1, String s2) {
-
-     if(s1.length > s2.length) return false;  
        
-     List<int> s1Freq = List.filled(26, 0);
-     List<int> s2Freq = List.filled(26, 0);
+       if(s1.length > s2.length) return false;
 
-     for(int i = 0 ; i < s1.length ; i++) {
-        s1Freq[s1.codeUnitAt(i) - 97]++;
-        s2Freq[s2.codeUnitAt(i) - 97]++;
-     }
+       List<int> s1Freq = List.filled(26, 0);
+       List<int> s2Freq = List.filled(26, 0);
 
-     if(arraysEqual(s1Freq, s2Freq)) return true;
+       for(int i = 0; i < s1.length ; i++) {
+          s1Freq[s1.codeUnitAt(i) - 97]++;
+          s2Freq[s2.codeUnitAt(i) - 97]++;
+       }
 
-     for(int right = s1.length ; right < s2.length ; right++) {
-        s2Freq[s2.codeUnitAt(right) - 97]++;
-        s2Freq[s2.codeUnitAt(right - s1.length) - 97]--;
-        if(arraysEqual(s1Freq, s2Freq)) return true;
-     }
+       if(arraysEqual(s1Freq, s2Freq)) return true;
 
-    return false;
+       for(int right = s1.length ; right < s2.length; right++) {
+          s2Freq[s2.codeUnitAt(right) - 97]++;
+          s2Freq[s2.codeUnitAt(right - s1.length) - 97]--;
+          if(arraysEqual(s1Freq, s2Freq)) return true;
+       }
+    return false;  
   }
 
   bool arraysEqual(List<int> a, List<int> b) {
