@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/johnson1940/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/johnson1940/Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/johnson1940/Leetcode/tree/master/1013-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/johnson1940/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/johnson1940/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/johnson1940/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/johnson1940/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/johnson1940/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/johnson1940/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/johnson1940/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/johnson1940/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/johnson1940/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/johnson1940/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/johnson1940/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -746,4 +748,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/johnson1940/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/johnson1940/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/johnson1940/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
