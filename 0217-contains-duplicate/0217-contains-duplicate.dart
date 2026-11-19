@@ -1,11 +1,12 @@
 class Solution {
   bool containsDuplicate(List<int> nums) {
-    final seen = <int>{};
-    for(final num in nums){
-        if(seen.contains(num)) {
+       Set<int> numSet = {};
+
+       for(int num in nums) {
+          if(numSet.contains(num)) {
             return true;
-        }
-        seen.add(num);
+          }
+         numSet.add(num);
     }
     return false;
   }
