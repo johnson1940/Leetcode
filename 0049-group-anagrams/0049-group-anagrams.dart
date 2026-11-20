@@ -1,37 +1,30 @@
 class Solution {
-  List<List<String>> groupAnagrams(List<String> strs) {
-    //   Map<String, List<String>> map = {};
+  /// o(m * (n logn))
+//   List<List<String>> groupAnagrams(List<String> strs) {
+//     Map<String , List<String>> map = {};
 
-    //   for(String s in strs) {
-         
-    //      List<int> count = List.filled(26, 0);
+//     for(String word in strs) {
+//        String key = (word.split('')..sort()).join('');
+//        map[key] ??= [];
+//        map[key]!.add(word);
+//     }
+//     return map.values.toList();
+//   }
 
-    //      for(int i = 0; i < s.length ; i++) {
-    //          count[s.codeUnitAt(i) - 97] += 1;
-    //      }
+   /// O(m * n * 24) => O(m * n);
+   List<List<String>> groupAnagrams(List<String> strs) {
+        Map<String, List<String>> map = {};
 
-    //      String key = count.join(',');
+        for(String s in strs) {
 
-    //      map.putIfAbsent(key, () => []).add(s);
-    //   }
-    // return map.values.toList();  
+            List<int> count = List.filled(26, 0);
 
-    Map<String, List<String>> anagramMap = {};
-
-    for(String s in strs) {
-
-        List<int> count = List.filled(26, 0);
-
-        for(int i = 0; i < s.length ; i++) {
-            count[s.codeUnitAt(i) - 97] += 1;
+            for(int i = 0 ; i < s.length ; i++) {
+                count[s.codeUnitAt(i) - 97] += 1;
+            }
+          String key = count.join(',');
+          map.putIfAbsent(key, () => []).add(s);  
         }
-
-        String key = count.join(',');
-
-        anagramMap.putIfAbsent(key, () => []).add(s);
-    }
-   
-   return anagramMap.values.toList();
-
-  }
+    return map.values.toList();    
+   }
 }
