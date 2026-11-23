@@ -7,10 +7,21 @@ class Solution {
         mapFreq[num] = (mapFreq[num] ?? 0) + 1;
     }
 
-    return (mapFreq.entries.toList()
-    ..sort((a, b) => b.value.compareTo(a.value)))
-    .take(k)
-    .map((entry) => entry.key)
-    .toList();
+    List<List<int>> bucket = List.generate(nums.length + 1, (_) => []);
+
+    for(var entry in mapFreq.entries) {
+        bucket[entry.value].add(entry.key);
+    }
+
+    List<int> result = [];
+
+    for(int i = bucket.length - 1; i > 0 ; i--) {
+        for(int num in bucket[i]) {
+            result.add(num);
+            if(result.length == k) return result;
+        }
+    }
+
+    return result;
   }
 }
